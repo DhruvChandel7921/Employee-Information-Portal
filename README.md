@@ -1,4 +1,3 @@
-# Employee-Information-Portal
 # Employee Information Portal
 
 This is a basic academic project developed to understand HTML, CSS, and XML concepts.
