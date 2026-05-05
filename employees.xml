@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+
+<employees>
+    <employee>
+        <id>101</id>
+        <name>Amit Sharma</name>
+        <department>IT</department>
+        <email>amit@company.com</email>
+    </employee>
+
+    <employee>
+        <id>102</id>
+        <name>Neha Verma</name>
+        <department>HR</department>
+        <email>neha@company.com</email>
+    </employee>
+
+    <employee>
+        <id>103</id>
+        <name>Rahul Mehta</name>
+        <department>Finance</department>
+        <email>rahul@company.com</email>
+    </employee>
+</employees>
