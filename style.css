@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+.xml-link {
+    margin-top: 30px;
+}
+
+.xml-link a {
+    text-decoration: none;
+    color: white;
+    background-color: #3498db;
+    padding: 12px 18px;
+    border-radius: 5px;
+}
+
+.xml-link a:hover {
+    background-color: #2980b9;
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 14px;
+    color: #666;
+}
+``
